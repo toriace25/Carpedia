@@ -1,0 +1,43 @@
+﻿make,model,year,drivetrain,body_style,colors,displacement,induction_type,mpg_city,mpg_highway,trim,hp,transmission
+Honda,Civic,2016,FWD,coupe,,1.5,turbocharged,31,41,EX-T,174,cvt
+Honda,Civic,2021,FWD,sedan,"['Aegan Blue Metallic', Crystal Black Pearl', 'Lunar Silver Metallic',",2,na,30,38,LX,158,cvt
+Honda,Civic,2021,FWD,sedan,,2,na,"['25', '29']","['36', '37']",Sport,158,"['manual', 'cvt']"
+Honda,Civic,2021,FWD,sedan,,1.5,turbocharged,32,42,EX,174,cvt
+Honda,Civic,2021,FWD,sedan,,1.5,turbocharged,32,42,EX-L,174,cvt
+Honda,Civic,2021,FWD,sedan,,1.5,turbocharged,30,38,Touring,174,cvt
+Honda,Civic,2020,FWD,sedan,,2,na,"['25', '30']","['36', '38']",LX,158,"['manual', 'cvt']"
+Honda,Civic,2020,FWD,sedan,,2,na,"['25', '29']","['36', '37']",Sport,158,"['manual', 'cvt']"
+Honda,Civic,2020,FWD,sedan,,1.5,turbocharged,32,42,EX,174,cvt
+Honda,Civic,2020,FWD,sedan,,1.5,turbocharged,32,42,EX-L,174,cvt
+Honda,Civic,2020,FWD,sedan,,1.5,turbocharged,30,38,Touring,174,cvt
+Honda,CR-V,2021,"['FWD', 'AWD']",SUV,,1.5,turbocharged,"['28', '27']","['34', '32']",LX,190,cvt
+Honda,CR-V,2021,"['FWD', 'AWD']",SUV,,1.5,turbocharged,"['28', '27']","['34', '32']",EX,190,cvt
+Honda,CR-V,2021,"['FWD', 'AWD']",SUV,,1.5,turbocharged,"['28', '27']","['34', '32']",EX-L,190,cvt
+Honda,CR-V,2021,"['FWD', 'AWD']",SUV,,1.5,turbocharged,"['28', '27']","['34', '32']",Touring,190,cvt
+Honda,CR-V,2020,"['FWD', 'AWD']",SUV,,1.5,turbocharged,"['28', '27']","['34', '32']",LX,190,cvt
+Honda,CR-V,2020,"['FWD', 'AWD']",SUV,,1.5,turbocharged,"['28', '27']","['34', '32']",EX,190,cvt
+Honda,CR-V,2020,"['FWD', 'AWD']",SUV,,1.5,turbocharged,"['28', '27']","['34', '32']",EX-L,190,cvt
+Honda,CR-V,2020,"['FWD', 'AWD']",SUV,,1.5,turbocharged,"['28', '27']","['34', '32']",Touring,190,cvt
+Mazda,Miata/MX-5,2021,RWD,roadster,,2,na,26,"['34', '35']",Sport,181,"['manual', 'auto']"
+Mazda,Miata/MX-5,2021,RWD,roadster,,2,na,26,"['34', '35']",Club,181,"['manual', 'auto']"
+Mazda,Miata/MX-5,2021,RWD,roadster,,2,na,26,"['34', '35']",Grand Touring,181,"['manual', 'auto']"
+Mazda,Miata/MX-5,2020,RWD,roadster,,2,na,26,"['34', '35']",Sport,181,"['manual', 'auto']"
+Mazda,Miata/MX-5,2020,RWD,roadster,,2,na,26,"['34', '35']",Club,181,"['manual', 'auto']"
+Mazda,Miata/MX-5,2020,RWD,roadster,,2,na,26,"['34', '35']",Grand Touring,181,"['manual', 'auto']"
+Mazda,Miata/MX-5,2020,RWD,roadster,,2,na,26,"['34', '35']",100th Anniversary,181,"['manual', 'auto']"
+Mazda,CX-5,2021,"['FWD', 'AWD']",SUV,,2.5,na,"[25,24]","[31,30]",Sport,187,auto
+Mazda,CX-5,2021,"['FWD', 'AWD']",SUV,,2.5,na,"[25,24]","[31,30]",Touring,187,auto
+Mazda,CX-5,2021,"['FWD', 'AWD']",SUV,,2.5,na,"[25,24]","[31,30]",Carbon Edition,187,auto
+Mazda,CX-5,2021,"['FWD', 'AWD']",SUV,,2.5,turbocharged,"[23,22]","[28,27]",Carbon Edition Turbo,227,auto
+Mazda,CX-5,2021,"['FWD', 'AWD']",SUV,,2.5,na,"[25,24]","[31,30]",Grand Touring,187,auto
+Mazda,CX-5,2021,AWD,SUV,,2.5,turbocharged,22,27,Grand Touring Reserve,227,auto
+Mazda,CX-5,2021,AWD,SUV,,2.5,turbocharged,22,27,Signature,227,auto
+Mazda,CX-5,2020,"['FWD', 'AWD']",SUV,,2.5,na,"[25,24]","[31,30]",Sport,187,auto
+Mazda,CX-5,2020,"['FWD', 'AWD']",SUV,,2.5,na,"[25,24]","[31,30]",Touring,187,auto
+Mazda,CX-5,2020,"['FWD', 'AWD']",SUV,,2.5,na,"[25,24]","[31,30]",Grand Touring,187,auto
+Mazda,CX-5,2020,AWD,SUV,,2.5,turbocharged,22,27,Grand Touring Reserve,227,auto
+Mazda,CX-5,2020,AWD,SUV,,2.5,turbocharged,22,27,Signature,227,auto
+Audi,S7,2021,AWD,sedan,,2.9,turbo/supercharged,18,28,2.9T Premium Plus,444,auto
+Audi,S7,2020,AWD,sedan,,2.9,turbo/supercharged,18,28,2.9T Premium Plus,444,auto
+Audi,TT,2021,AWD,roadster,,2,turbocharged,23,31,45 TFSI quattro,220,auto
+Audi,TT,2020,AWD,roadster,,2,turbocharged,23,31,46 TFSI quattro,220,auto
